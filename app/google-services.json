@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530632315638",
+    "firebase_url": "https://grammar-game-44254.firebaseio.com",
+    "project_id": "grammar-game-44254",
+    "storage_bucket": "grammar-game-44254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530632315638:android:ee70187cda848e22fb52d7",
+        "android_client_info": {
+          "package_name": "com.example.plant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530632315638-jftguiqjj9vqtg77cnk82ukcftnvuln7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plant",
+            "certificate_hash": "ff488dd620924e262ed7dfea58f85bab24b8302a"
+          }
+        },
+        {
+          "client_id": "530632315638-6ee055k4trt5ce7ctgu4h55q1ev52rbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhL_I-tNhjW5crOBQ6w5U8GvHLwjGppHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530632315638-6ee055k4trt5ce7ctgu4h55q1ev52rbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

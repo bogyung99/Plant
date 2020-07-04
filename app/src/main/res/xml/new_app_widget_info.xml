@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+    android:initialLayout="@layout/new_app_widget"
+    android:minHeight="180dp"
+    android:minWidth="282dp"
+    android:previewImage="@drawable/plant"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="1000"
+    android:widgetCategory="home_screen"
+    xmlns:android="http://schemas.android.com/apk/res/android"/>
